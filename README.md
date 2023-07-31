@@ -53,7 +53,7 @@ Scoretwice is a cutting-edge banking app that revolutionizes financial managemen
 <!-- INSTALLATION -->
 ## [Installation](#installation)
 
-1. Clone the repository: git clone https://github.com/alexanderley/scoretwice-server.git
+1. Clone the repository: git clone https://github.com/FlorianParzivalLuther/scoretwice-client.git
 2. Change directory: cd scoretwice-server
 3. Install dependencies: npm install
 <p align="right">(<a href="#Installation">back to top</a>)</p>
